@@ -1,0 +1,11 @@
+node_modules/
+dist/
+contracts/out/
+contracts/cache/
+.env
+.env.local
+.env.*.local
+.arc-studio/
+.compass/
+.agents/
+*.log
